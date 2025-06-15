@@ -90,8 +90,9 @@ def get_text_embedding(text: str, model, processor, model_name, device):
         text = clip.tokenize([text], truncate=True)
     elif model_name == 'ruclip':
         text = processor(text=[text], return_tensors='pt', padding=True, truncation=True)['input_ids']
-    
-    text_embedding = model.encode_text(text.to(device)).cpu()
-    text_embedding /= text_embedding.norm(dim=-1, keepdim=True)
+
+    with torch.no_grad():
+        text_embedding = model.encode_text(text.to(device)).cpu()
+        text_embedding /= text_embedding.norm(dim=-1, keepdim=True)
 
     return text_embedding
