@@ -1,0 +1,1725 @@
+{
+  "котенок": [
+    {
+      "id": 1855,
+      "local_image_path": "data/embroteka_imgs/2299.jpg",
+      "text": "котята животные"
+    },
+    {
+      "id": 1861,
+      "local_image_path": "data/embroteka_imgs/2305.jpg",
+      "text": "кошечка животные"
+    },
+    {
+      "id": 1863,
+      "local_image_path": "data/embroteka_imgs/2307.jpg",
+      "text": "кошка животные"
+    },
+    {
+      "id": 1757,
+      "local_image_path": "data/embroteka_imgs/2178.jpg",
+      "text": "кот животные"
+    },
+    {
+      "id": 1862,
+      "local_image_path": "data/embroteka_imgs/2306.jpg",
+      "text": "кошечка 01 животные"
+    },
+    {
+      "id": 1764,
+      "local_image_path": "data/embroteka_imgs/2185.jpg",
+      "text": "кот 07 животные"
+    },
+    {
+      "id": 1854,
+      "local_image_path": "data/embroteka_imgs/2298.jpg",
+      "text": "котэ животные"
+    },
+    {
+      "id": 1760,
+      "local_image_path": "data/embroteka_imgs/2181.jpg",
+      "text": "кот 03 животные"
+    },
+    {
+      "id": 1811,
+      "local_image_path": "data/embroteka_imgs/2249.png",
+      "text": "котик животные"
+    },
+    {
+      "id": 9170,
+      "local_image_path": "data/embroteka_imgs/10944.jpg",
+      "text": "рождественский котенок праздники"
+    },
+    {
+      "id": 1763,
+      "local_image_path": "data/embroteka_imgs/2184.jpg",
+      "text": "кот 06 животные"
+    },
+    {
+      "id": 1758,
+      "local_image_path": "data/embroteka_imgs/2179.jpg",
+      "text": "кот 01 животные"
+    },
+    {
+      "id": 1815,
+      "local_image_path": "data/embroteka_imgs/2253.jpg",
+      "text": "котик 13 животные"
+    },
+    {
+      "id": 1766,
+      "local_image_path": "data/embroteka_imgs/2187.png",
+      "text": "кот 09 животные"
+    },
+    {
+      "id": 1808,
+      "local_image_path": "data/embroteka_imgs/2246.jpg",
+      "text": "котёнок-единорог животные"
+    },
+    {
+      "id": 1812,
+      "local_image_path": "data/embroteka_imgs/2250.jpg",
+      "text": "котик 1 животные"
+    }
+  ],
+  "петух курица": [
+    {
+      "id": 2281,
+      "local_image_path": "data/embroteka_imgs/2794.jpg",
+      "text": "петух животные"
+    },
+    {
+      "id": 13045,
+      "local_image_path": "data/royal_present_imgs/4570.jpg",
+      "text": "петух зимние восточные и азиатские птицы"
+    },
+    {
+      "id": 20912,
+      "local_image_path": "data/royal_present_imgs_4/22836.jpg",
+      "text": "курица птицы"
+    },
+    {
+      "id": 20911,
+      "local_image_path": "data/royal_present_imgs_4/22835.jpg",
+      "text": "курица птицы"
+    },
+    {
+      "id": 1915,
+      "local_image_path": "data/embroteka_imgs/2368.jpg",
+      "text": "курица животные"
+    },
+    {
+      "id": 20913,
+      "local_image_path": "data/royal_present_imgs_4/22837.jpg",
+      "text": "деревенский петух птицы"
+    },
+    {
+      "id": 20914,
+      "local_image_path": "data/royal_present_imgs_4/22838.jpg",
+      "text": "деревенский петух птицы"
+    },
+    {
+      "id": 13546,
+      "local_image_path": "data/royal_present_imgs_2/5888.jpg",
+      "text": "петух зимние птицы"
+    },
+    {
+      "id": 13545,
+      "local_image_path": "data/royal_present_imgs_2/5887.jpg",
+      "text": "петух зимние птицы"
+    },
+    {
+      "id": 20983,
+      "local_image_path": "data/royal_present_imgs_4/22981.jpg",
+      "text": "курочка и цыплята птицы"
+    },
+    {
+      "id": 20984,
+      "local_image_path": "data/royal_present_imgs_4/22982.jpg",
+      "text": "курочка и цыплята птицы"
+    },
+    {
+      "id": 20990,
+      "local_image_path": "data/royal_present_imgs_4/22995.jpg",
+      "text": "курочка с цыпленком птицы"
+    },
+    {
+      "id": 20989,
+      "local_image_path": "data/royal_present_imgs_4/22994.jpg",
+      "text": "курочка с цыпленком птицы"
+    },
+    {
+      "id": 17184,
+      "local_image_path": "data/royal_present_imgs_3/14623.jpg",
+      "text": "курица бордюры птицы"
+    },
+    {
+      "id": 17183,
+      "local_image_path": "data/royal_present_imgs_3/14622.jpg",
+      "text": "курица бордюры птицы"
+    },
+    {
+      "id": 20936,
+      "local_image_path": "data/royal_present_imgs_4/22889.jpg",
+      "text": "курица с яйцами птицы"
+    }
+  ],
+  "девушка": [
+    {
+      "id": 6958,
+      "local_image_path": "data/embroteka_imgs/8432.jpg",
+      "text": "девушка люди"
+    },
+    {
+      "id": 6978,
+      "local_image_path": "data/embroteka_imgs/8457.jpg",
+      "text": "девушка с бокалом вина люди"
+    },
+    {
+      "id": 6952,
+      "local_image_path": "data/embroteka_imgs/8423.jpg",
+      "text": "девочка люди"
+    },
+    {
+      "id": 6876,
+      "local_image_path": "data/embroteka_imgs/8333.jpg",
+      "text": "woman люди"
+    },
+    {
+      "id": 6972,
+      "local_image_path": "data/embroteka_imgs/8450.png",
+      "text": "девушка линии люди"
+    },
+    {
+      "id": 7131,
+      "local_image_path": "data/embroteka_imgs/8655.jpg",
+      "text": "он она люди"
+    },
+    {
+      "id": 7009,
+      "local_image_path": "data/embroteka_imgs/8489.jpg",
+      "text": "девушка-ангел люди"
+    },
+    {
+      "id": 6962,
+      "local_image_path": "data/embroteka_imgs/8436.jpg",
+      "text": "девушка африканская люди"
+    },
+    {
+      "id": 6959,
+      "local_image_path": "data/embroteka_imgs/8433.jpg",
+      "text": "девушка 01 люди"
+    },
+    {
+      "id": 7012,
+      "local_image_path": "data/embroteka_imgs/8492.jpg",
+      "text": "девушка-дьявол люди"
+    },
+    {
+      "id": 7084,
+      "local_image_path": "data/embroteka_imgs/8578.jpg",
+      "text": "лицо люди"
+    },
+    {
+      "id": 7037,
+      "local_image_path": "data/embroteka_imgs/8517.jpg",
+      "text": "женский силуэт люди"
+    },
+    {
+      "id": 7120,
+      "local_image_path": "data/embroteka_imgs/8637.jpg",
+      "text": "нагая девушка люди"
+    },
+    {
+      "id": 7057,
+      "local_image_path": "data/embroteka_imgs/8546.jpg",
+      "text": "ирина люди"
+    }
+  ],
+  "новый год": [
+    {
+      "id": 9199,
+      "local_image_path": "data/embroteka_imgs/10979.jpg",
+      "text": "с новым годом! праздники"
+    },
+    {
+      "id": 9228,
+      "local_image_path": "data/embroteka_imgs/11008.jpg",
+      "text": "с рождеством христовым! праздники"
+    },
+    {
+      "id": 9229,
+      "local_image_path": "data/embroteka_imgs/11009.jpg",
+      "text": "с рождеством! праздники"
+    },
+    {
+      "id": 9427,
+      "local_image_path": "data/embroteka_imgs/11238.jpg",
+      "text": "счастливого нового года! праздники"
+    },
+    {
+      "id": 8715,
+      "local_image_path": "data/embroteka_imgs/10386.jpg",
+      "text": "веселого нового года! праздники"
+    },
+    {
+      "id": 8737,
+      "local_image_path": "data/embroteka_imgs/10410.jpg",
+      "text": "волшебного нового года! праздники"
+    },
+    {
+      "id": 9198,
+      "local_image_path": "data/embroteka_imgs/10978.jpg",
+      "text": "с новым годом рождеством! праздники"
+    },
+    {
+      "id": 13593,
+      "local_image_path": "data/royal_present_imgs_2/5984.jpg",
+      "text": "с новым годом зимние"
+    },
+    {
+      "id": 9232,
+      "local_image_path": "data/embroteka_imgs/11017.jpg",
+      "text": "санта праздники"
+    },
+    {
+      "id": 8716,
+      "local_image_path": "data/embroteka_imgs/10387.jpg",
+      "text": "весёлого рождества счастливого нового года! праздники"
+    },
+    {
+      "id": 9122,
+      "local_image_path": "data/embroteka_imgs/10889.jpg",
+      "text": "подарки праздники"
+    },
+    {
+      "id": 8717,
+      "local_image_path": "data/embroteka_imgs/10388.jpg",
+      "text": "весёлого рождества! праздники"
+    },
+    {
+      "id": 9151,
+      "local_image_path": "data/embroteka_imgs/10921.jpg",
+      "text": "пряный новый год праздники"
+    },
+    {
+      "id": 9176,
+      "local_image_path": "data/embroteka_imgs/10950.jpg",
+      "text": "рождественское поздравление праздники"
+    }
+  ],
+  "пасха": [
+    {
+      "id": 9054,
+      "local_image_path": "data/embroteka_imgs/10801.jpg",
+      "text": "пасха праздники"
+    },
+    {
+      "id": 9096,
+      "local_image_path": "data/embroteka_imgs/10847.jpg",
+      "text": "пасхальные яйца easter праздники"
+    },
+    {
+      "id": 9068,
+      "local_image_path": "data/embroteka_imgs/10815.jpg",
+      "text": "пасхальное яйцо праздники"
+    },
+    {
+      "id": 20691,
+      "local_image_path": "data/royal_present_imgs_4/22333.jpg",
+      "text": "пасхальные наборы"
+    },
+    {
+      "id": 20690,
+      "local_image_path": "data/royal_present_imgs_4/22332.jpg",
+      "text": "пасхальные наборы"
+    },
+    {
+      "id": 9108,
+      "local_image_path": "data/embroteka_imgs/10861.png",
+      "text": "пасхальный кролик праздники"
+    },
+    {
+      "id": 9095,
+      "local_image_path": "data/embroteka_imgs/10846.png",
+      "text": "пасхальное яйцо. пасха праздники"
+    },
+    {
+      "id": 9221,
+      "local_image_path": "data/embroteka_imgs/11001.jpg",
+      "text": "с пасхой! праздники"
+    },
+    {
+      "id": 9056,
+      "local_image_path": "data/embroteka_imgs/10803.jpg",
+      "text": "пасха 1 праздники"
+    },
+    {
+      "id": 9055,
+      "local_image_path": "data/embroteka_imgs/10802.jpg",
+      "text": "пасха - христос воскрес праздники"
+    },
+    {
+      "id": 16259,
+      "local_image_path": "data/royal_present_imgs_3/12266.jpg",
+      "text": "пасхальный кулич животный мир"
+    },
+    {
+      "id": 9101,
+      "local_image_path": "data/embroteka_imgs/10853.png",
+      "text": "пасхальный венок праздники"
+    },
+    {
+      "id": 9057,
+      "local_image_path": "data/embroteka_imgs/10804.jpg",
+      "text": "пасха 2 праздники"
+    },
+    {
+      "id": 9058,
+      "local_image_path": "data/embroteka_imgs/10805.jpg",
+      "text": "пасха 3 праздники"
+    },
+    {
+      "id": 9271,
+      "local_image_path": "data/embroteka_imgs/11057.png",
+      "text": "светлой пасхи! праздники"
+    }
+  ],
+  "цветы ромашки": [
+    {
+      "id": 10402,
+      "local_image_path": "data/embroteka_imgs/12433.jpg",
+      "text": "ромашка растения"
+    },
+    {
+      "id": 15822,
+      "local_image_path": "data/royal_present_imgs_3/11485.jpg",
+      "text": "полевые ромашки цветы и растения"
+    },
+    {
+      "id": 15821,
+      "local_image_path": "data/royal_present_imgs_3/11484.jpg",
+      "text": "полевые ромашки цветы и растения"
+    },
+    {
+      "id": 14789,
+      "local_image_path": "data/royal_present_imgs_2/8858.jpg",
+      "text": "куст ромашек цветы и растения"
+    },
+    {
+      "id": 14788,
+      "local_image_path": "data/royal_present_imgs_2/8857.jpg",
+      "text": "куст ромашек цветы и растения"
+    },
+    {
+      "id": 14629,
+      "local_image_path": "data/royal_present_imgs_2/8293.jpg",
+      "text": "ромашка угол цветы и растения"
+    },
+    {
+      "id": 14628,
+      "local_image_path": "data/royal_present_imgs_2/8292.gif",
+      "text": "ромашка угол цветы и растения"
+    },
+    {
+      "id": 16023,
+      "local_image_path": "data/royal_present_imgs_3/11931.jpg",
+      "text": "поляна ромашек цветы и растения"
+    },
+    {
+      "id": 16022,
+      "local_image_path": "data/royal_present_imgs_3/11930.jpg",
+      "text": "поляна ромашек цветы и растения"
+    },
+    {
+      "id": 15531,
+      "local_image_path": "data/royal_present_imgs_3/10810.jpg",
+      "text": "бесплатно ромашка цветы и растения бесплатные"
+    },
+    {
+      "id": 15532,
+      "local_image_path": "data/royal_present_imgs_3/10811.jpg",
+      "text": "бесплатно ромашка цветы и растения бесплатные"
+    },
+    {
+      "id": 10445,
+      "local_image_path": "data/embroteka_imgs/12489.jpg",
+      "text": "фиолетовые ромашки растения"
+    },
+    {
+      "id": 10403,
+      "local_image_path": "data/embroteka_imgs/12434.jpg",
+      "text": "ромашка жёлтая растения"
+    },
+    {
+      "id": 15024,
+      "local_image_path": "data/royal_present_imgs_2/9509.jpg",
+      "text": "маки ромашки васильки цветы и растения"
+    },
+    {
+      "id": 15025,
+      "local_image_path": "data/royal_present_imgs_2/9510.jpg",
+      "text": "маки ромашки васильки цветы и растения"
+    }
+  ],
+  "иероглифы": [
+    {
+      "id": 7537,
+      "local_image_path": "data/embroteka_imgs/9115.png",
+      "text": "иероглиф надписи"
+    },
+    {
+      "id": 7540,
+      "local_image_path": "data/embroteka_imgs/9118.jpg",
+      "text": "иероглиф исполнение желаний надписи"
+    },
+    {
+      "id": 7541,
+      "local_image_path": "data/embroteka_imgs/9119.jpg",
+      "text": "иероглиф удача надписи"
+    },
+    {
+      "id": 7538,
+      "local_image_path": "data/embroteka_imgs/9116.jpg",
+      "text": "иероглиф богатство надписи"
+    },
+    {
+      "id": 7539,
+      "local_image_path": "data/embroteka_imgs/9117.jpg",
+      "text": "иероглиф здоровья надписи"
+    },
+    {
+      "id": 1619,
+      "local_image_path": "data/embroteka_imgs/2022.jpg",
+      "text": "заяц иероглифы животные"
+    },
+    {
+      "id": 1355,
+      "local_image_path": "data/embroteka_imgs/1688.jpg",
+      "text": "бык с иероглифом животные"
+    }
+  ],
+  "персонажи мультфильмов": [
+    {
+      "id": 1100,
+      "local_image_path": "data/embroteka_imgs/1399.jpg",
+      "text": "мульт детские"
+    },
+    {
+      "id": 2885,
+      "local_image_path": "data/embroteka_imgs/3448.jpg",
+      "text": "disney кино мульты аниме игры"
+    },
+    {
+      "id": 986,
+      "local_image_path": "data/embroteka_imgs/1278.jpg",
+      "text": "лего-человечек детские"
+    },
+    {
+      "id": 5019,
+      "local_image_path": "data/embroteka_imgs/5658.png",
+      "text": "покемоны. pokemons кино мульты аниме игры"
+    },
+    {
+      "id": 3669,
+      "local_image_path": "data/embroteka_imgs/4239.jpg",
+      "text": "pokemon герои кино мульты аниме игры"
+    },
+    {
+      "id": 5261,
+      "local_image_path": "data/embroteka_imgs/5916.jpg",
+      "text": "цыпленок из мультика кино мульты аниме игры"
+    },
+    {
+      "id": 4251,
+      "local_image_path": "data/embroteka_imgs/4825.png",
+      "text": "аниме. комикс кино мульты аниме игры"
+    },
+    {
+      "id": 3268,
+      "local_image_path": "data/embroteka_imgs/3835.png",
+      "text": "mikey кино мульты аниме игры"
+    },
+    {
+      "id": 5018,
+      "local_image_path": "data/embroteka_imgs/5657.jpg",
+      "text": "покемоны кино мульты аниме игры"
+    },
+    {
+      "id": 3668,
+      "local_image_path": "data/embroteka_imgs/4238.jpg",
+      "text": "pokemon кино мульты аниме игры"
+    },
+    {
+      "id": 5233,
+      "local_image_path": "data/embroteka_imgs/5885.jpg",
+      "text": "утка кролик. cartoon кино мульты аниме игры"
+    },
+    {
+      "id": 4561,
+      "local_image_path": "data/embroteka_imgs/5163.jpg",
+      "text": "дейл из диснея кино мульты аниме игры"
+    },
+    {
+      "id": 4981,
+      "local_image_path": "data/embroteka_imgs/5612.png",
+      "text": "патрик  patrick кино мульты аниме игры"
+    },
+    {
+      "id": 4621,
+      "local_image_path": "data/embroteka_imgs/5233.jpg",
+      "text": "зайки дисней кино мульты аниме игры"
+    },
+    {
+      "id": 3173,
+      "local_image_path": "data/embroteka_imgs/3740.png",
+      "text": "krico. пингвин кино мульты аниме игры"
+    },
+    {
+      "id": 4610,
+      "local_image_path": "data/embroteka_imgs/5219.png",
+      "text": "друзья кино мульты аниме игры"
+    }
+  ],
+  "космос": [
+    {
+      "id": 147,
+      "local_image_path": "data/embroteka_imgs/152.png",
+      "text": "планета астрология космос"
+    },
+    {
+      "id": 12,
+      "local_image_path": "data/embroteka_imgs/12.png",
+      "text": "астронавт астрология космос"
+    },
+    {
+      "id": 120,
+      "local_image_path": "data/embroteka_imgs/121.jpg",
+      "text": "космонавт астрология космос"
+    },
+    {
+      "id": 122,
+      "local_image_path": "data/embroteka_imgs/124.jpg",
+      "text": "космонавт планеты астрология космос"
+    },
+    {
+      "id": 21,
+      "local_image_path": "data/embroteka_imgs/21.jpg",
+      "text": "гагарин ю.а. астрология космос люди"
+    },
+    {
+      "id": 130,
+      "local_image_path": "data/embroteka_imgs/132.jpg",
+      "text": "летающая тарелка астрология космос"
+    },
+    {
+      "id": 118,
+      "local_image_path": "data/embroteka_imgs/119.jpg",
+      "text": "космический корабль астрология космос"
+    },
+    {
+      "id": 148,
+      "local_image_path": "data/embroteka_imgs/153.gif",
+      "text": "планета земля астрология космос"
+    },
+    {
+      "id": 113,
+      "local_image_path": "data/embroteka_imgs/114.jpg",
+      "text": "комета астрология космос"
+    },
+    {
+      "id": 135,
+      "local_image_path": "data/embroteka_imgs/137.jpg",
+      "text": "луна звезды астрология космос"
+    },
+    {
+      "id": 124,
+      "local_image_path": "data/embroteka_imgs/126.jpg",
+      "text": "космонафт астрология космос"
+    },
+    {
+      "id": 121,
+      "local_image_path": "data/embroteka_imgs/123.png",
+      "text": "космонавт 1 астрология космос"
+    },
+    {
+      "id": 153,
+      "local_image_path": "data/embroteka_imgs/160.png",
+      "text": "пришелец астрология космос"
+    },
+    {
+      "id": 146,
+      "local_image_path": "data/embroteka_imgs/151.jpg",
+      "text": "первый космонавт астрология космос"
+    },
+    {
+      "id": 132,
+      "local_image_path": "data/embroteka_imgs/134.jpg",
+      "text": "летящая ракета астрология космос"
+    },
+    {
+      "id": 119,
+      "local_image_path": "data/embroteka_imgs/120.jpg",
+      "text": "космический корабль 1 астрология космос"
+    },
+    {
+      "id": 32,
+      "local_image_path": "data/embroteka_imgs/32.png",
+      "text": "звезды астрология космос"
+    },
+    {
+      "id": 181,
+      "local_image_path": "data/embroteka_imgs/194.jpg",
+      "text": "юрий гагарин астрология космос люди"
+    }
+  ],
+  "необычные птицы": [
+    {
+      "id": 21025,
+      "local_image_path": "data/royal_present_imgs_4/23051.jpg",
+      "text": "тропическая птица птицы"
+    },
+    {
+      "id": 21026,
+      "local_image_path": "data/royal_present_imgs_4/23052.jpg",
+      "text": "тропическая птица птицы"
+    },
+    {
+      "id": 20977,
+      "local_image_path": "data/royal_present_imgs_4/22971.jpg",
+      "text": "влюбленные птички птицы"
+    },
+    {
+      "id": 20978,
+      "local_image_path": "data/royal_present_imgs_4/22972.jpg",
+      "text": "влюбленные птички птицы"
+    },
+    {
+      "id": 21056,
+      "local_image_path": "data/royal_present_imgs_4/23104.jpg",
+      "text": "райская птичка птицы"
+    },
+    {
+      "id": 21055,
+      "local_image_path": "data/royal_present_imgs_4/23103.jpg",
+      "text": "райская птичка птицы"
+    },
+    {
+      "id": 2331,
+      "local_image_path": "data/embroteka_imgs/2849.png",
+      "text": "птиц воробей животные"
+    },
+    {
+      "id": 2693,
+      "local_image_path": "data/embroteka_imgs/3252.png",
+      "text": "яркие птички животные"
+    },
+    {
+      "id": 2332,
+      "local_image_path": "data/embroteka_imgs/2850.jpg",
+      "text": "птица в полете животные"
+    },
+    {
+      "id": 1978,
+      "local_image_path": "data/embroteka_imgs/2445.jpg",
+      "text": "летящая птица животные"
+    },
+    {
+      "id": 2305,
+      "local_image_path": "data/embroteka_imgs/2822.jpg",
+      "text": "попугай животные"
+    },
+    {
+      "id": 2304,
+      "local_image_path": "data/embroteka_imgs/2821.png",
+      "text": "попугаи ара животные"
+    },
+    {
+      "id": 2345,
+      "local_image_path": "data/embroteka_imgs/2863.jpg",
+      "text": "птичка-невеличка животные"
+    },
+    {
+      "id": 2206,
+      "local_image_path": "data/embroteka_imgs/2712.jpg",
+      "text": "павлин животные"
+    }
+  ],
+  "ученый и наука": [
+    {
+      "id": 12,
+      "local_image_path": "data/embroteka_imgs/12.png",
+      "text": "астронавт астрология космос"
+    },
+    {
+      "id": 7114,
+      "local_image_path": "data/embroteka_imgs/8626.jpg",
+      "text": "мозговой центр люди"
+    },
+    {
+      "id": 122,
+      "local_image_path": "data/embroteka_imgs/124.jpg",
+      "text": "космонавт планеты астрология космос"
+    },
+    {
+      "id": 120,
+      "local_image_path": "data/embroteka_imgs/121.jpg",
+      "text": "космонавт астрология космос"
+    },
+    {
+      "id": 148,
+      "local_image_path": "data/embroteka_imgs/153.gif",
+      "text": "планета земля астрология космос"
+    },
+    {
+      "id": 153,
+      "local_image_path": "data/embroteka_imgs/160.png",
+      "text": "пришелец астрология космос"
+    },
+    {
+      "id": 19411,
+      "local_image_path": "data/royal_present_imgs_4/19224.jpg",
+      "text": "альберт эйнштейн физик великие люди и знаменитости"
+    },
+    {
+      "id": 19410,
+      "local_image_path": "data/royal_present_imgs_4/19223.jpg",
+      "text": "альберт эйнштейн физик великие люди и знаменитости"
+    },
+    {
+      "id": 146,
+      "local_image_path": "data/embroteka_imgs/151.jpg",
+      "text": "первый космонавт астрология космос"
+    }
+  ],
+  "надписи буквами": [
+    {
+      "id": 7428,
+      "local_image_path": "data/embroteka_imgs/8998.jpg",
+      "text": "буква а надписи"
+    },
+    {
+      "id": 7409,
+      "local_image_path": "data/embroteka_imgs/8977.jpg",
+      "text": "алфавит надписи"
+    },
+    {
+      "id": 7815,
+      "local_image_path": "data/embroteka_imgs/9408.jpg",
+      "text": "стиль надписи"
+    },
+    {
+      "id": 7406,
+      "local_image_path": "data/embroteka_imgs/8967.jpg",
+      "text": "азбука надписи"
+    },
+    {
+      "id": 7772,
+      "local_image_path": "data/embroteka_imgs/9361.jpg",
+      "text": "расписаша надписи"
+    },
+    {
+      "id": 7696,
+      "local_image_path": "data/embroteka_imgs/9280.jpg",
+      "text": "надпись свет надписи"
+    },
+    {
+      "id": 7587,
+      "local_image_path": "data/embroteka_imgs/9168.jpg",
+      "text": "люби надписи"
+    },
+    {
+      "id": 7896,
+      "local_image_path": "data/embroteka_imgs/9522.jpg",
+      "text": "я тебя люблю надписи"
+    },
+    {
+      "id": 7735,
+      "local_image_path": "data/embroteka_imgs/9324.jpg",
+      "text": "отвали надписи"
+    },
+    {
+      "id": 7652,
+      "local_image_path": "data/embroteka_imgs/9235.jpg",
+      "text": "надпись army надписи"
+    },
+    {
+      "id": 7331,
+      "local_image_path": "data/embroteka_imgs/8885.jpg",
+      "text": "easy надписи"
+    },
+    {
+      "id": 20801,
+      "local_image_path": "data/royal_present_imgs_4/22637.jpg",
+      "text": "надпись я люблю тебя надписи логотипы знаки"
+    },
+    {
+      "id": 20800,
+      "local_image_path": "data/royal_present_imgs_4/22636.jpg",
+      "text": "надпись я люблю тебя надписи логотипы знаки"
+    },
+    {
+      "id": 7646,
+      "local_image_path": "data/embroteka_imgs/9228.png",
+      "text": "надпись  через не могу надписи"
+    },
+    {
+      "id": 7397,
+      "local_image_path": "data/embroteka_imgs/8958.jpg",
+      "text": "with love надписи"
+    },
+    {
+      "id": 7316,
+      "local_image_path": "data/embroteka_imgs/8869.jpg",
+      "text": "army надписи"
+    }
+  ],
+  "военная": [
+    {
+      "id": 8736,
+      "local_image_path": "data/embroteka_imgs/10409.jpg",
+      "text": "вмф праздники"
+    },
+    {
+      "id": 354,
+      "local_image_path": "data/embroteka_imgs/448.jpg",
+      "text": "войска специального назначения военные шевроны нашивки"
+    },
+    {
+      "id": 581,
+      "local_image_path": "data/embroteka_imgs/764.jpg",
+      "text": "разведка. 30 орб военные шевроны нашивки"
+    },
+    {
+      "id": 639,
+      "local_image_path": "data/embroteka_imgs/850.jpg",
+      "text": "спецназ ночь рейдовая группа военные шевроны нашивки"
+    },
+    {
+      "id": 323,
+      "local_image_path": "data/embroteka_imgs/388.jpg",
+      "text": "военная разведка военные шевроны нашивки"
+    },
+    {
+      "id": 611,
+      "local_image_path": "data/embroteka_imgs/811.jpg",
+      "text": "сапер. без права на ошибку военные шевроны нашивки"
+    },
+    {
+      "id": 502,
+      "local_image_path": "data/embroteka_imgs/656.jpg",
+      "text": "нашивка есть такая профессия родину защищать военные шевроны нашивки"
+    },
+    {
+      "id": 638,
+      "local_image_path": "data/embroteka_imgs/849.png",
+      "text": "спецназ военные шевроны нашивки"
+    },
+    {
+      "id": 9184,
+      "local_image_path": "data/embroteka_imgs/10962.jpg",
+      "text": "с днем защитника праздники"
+    },
+    {
+      "id": 591,
+      "local_image_path": "data/embroteka_imgs/780.jpg",
+      "text": "ремонтная рота. машина рэм военные шевроны нашивки"
+    },
+    {
+      "id": 598,
+      "local_image_path": "data/embroteka_imgs/791.jpg",
+      "text": "росгвардия военные шевроны нашивки"
+    },
+    {
+      "id": 537,
+      "local_image_path": "data/embroteka_imgs/706.png",
+      "text": "отряд повышенной готовности военные шевроны нашивки"
+    },
+    {
+      "id": 322,
+      "local_image_path": "data/embroteka_imgs/387.png",
+      "text": "военная операция конни военные шевроны нашивки"
+    },
+    {
+      "id": 582,
+      "local_image_path": "data/embroteka_imgs/765.jpg",
+      "text": "ракетные войска артиллерия военные шевроны нашивки"
+    },
+    {
+      "id": 272,
+      "local_image_path": "data/embroteka_imgs/316.jpg",
+      "text": "боевая совафилин с автоматом военные шевроны нашивки"
+    }
+  ],
+  "автомобили машины": [
+    {
+      "id": 10886,
+      "local_image_path": "data/embroteka_imgs/13047.png",
+      "text": "улица транспорт"
+    },
+    {
+      "id": 10839,
+      "local_image_path": "data/embroteka_imgs/12980.jpg",
+      "text": "машина транспорт"
+    },
+    {
+      "id": 10775,
+      "local_image_path": "data/embroteka_imgs/12888.png",
+      "text": "автомобиль  car  c2 транспорт"
+    },
+    {
+      "id": 10813,
+      "local_image_path": "data/embroteka_imgs/12938.jpg",
+      "text": "грузовик транспорт"
+    },
+    {
+      "id": 10754,
+      "local_image_path": "data/embroteka_imgs/12859.png",
+      "text": "mercedes  мерседес  машина  car транспорт"
+    },
+    {
+      "id": 10814,
+      "local_image_path": "data/embroteka_imgs/12939.jpg",
+      "text": "джип транспорт"
+    },
+    {
+      "id": 10841,
+      "local_image_path": "data/embroteka_imgs/12982.jpg",
+      "text": "машина  суперкар  авто транспорт"
+    },
+    {
+      "id": 10774,
+      "local_image_path": "data/embroteka_imgs/12887.png",
+      "text": "автомобиль  car  c1 транспорт"
+    },
+    {
+      "id": 10844,
+      "local_image_path": "data/embroteka_imgs/12985.jpg",
+      "text": "машина ваз транспорт"
+    },
+    {
+      "id": 10759,
+      "local_image_path": "data/embroteka_imgs/12867.png",
+      "text": "porsche транспорт"
+    },
+    {
+      "id": 10771,
+      "local_image_path": "data/embroteka_imgs/12883.jpg",
+      "text": "автобус транспорт"
+    }
+  ],
+  "гарри поттер": [
+    {
+      "id": 4481,
+      "local_image_path": "data/embroteka_imgs/5065.jpg",
+      "text": "гарри поттер кино мульты аниме игры"
+    },
+    {
+      "id": 4486,
+      "local_image_path": "data/embroteka_imgs/5070.png",
+      "text": "гарри поттер хогвартc кино мульты аниме игры"
+    },
+    {
+      "id": 3016,
+      "local_image_path": "data/embroteka_imgs/3581.png",
+      "text": "harry potter  гарри поттер кино мульты аниме игры"
+    },
+    {
+      "id": 4482,
+      "local_image_path": "data/embroteka_imgs/5066.jpg",
+      "text": "гарри поттер 2 кино мульты аниме игры"
+    },
+    {
+      "id": 4488,
+      "local_image_path": "data/embroteka_imgs/5072.png",
+      "text": "гарри поттерзаклинаниеalohomora кино мульты аниме игры"
+    },
+    {
+      "id": 4483,
+      "local_image_path": "data/embroteka_imgs/5067.jpg",
+      "text": "гарри поттер 3 кино мульты аниме игры"
+    }
+  ],
+  "бабочка": [
+    {
+      "id": 19150,
+      "local_image_path": "data/royal_present_imgs_4/18661.jpg",
+      "text": "бабочка бабочки и насекомые"
+    },
+    {
+      "id": 19149,
+      "local_image_path": "data/royal_present_imgs_4/18660.jpg",
+      "text": "бабочка бабочки и насекомые"
+    },
+    {
+      "id": 1269,
+      "local_image_path": "data/embroteka_imgs/1593.jpg",
+      "text": "бабочка животные"
+    },
+    {
+      "id": 19061,
+      "local_image_path": "data/royal_present_imgs_4/18375.jpg",
+      "text": "бабочки бабочки и насекомые"
+    },
+    {
+      "id": 19062,
+      "local_image_path": "data/royal_present_imgs_4/18376.jpg",
+      "text": "бабочки бабочки и насекомые"
+    },
+    {
+      "id": 1290,
+      "local_image_path": "data/embroteka_imgs/1614.jpg",
+      "text": "бабочка полосатая животные"
+    },
+    {
+      "id": 1307,
+      "local_image_path": "data/embroteka_imgs/1631.jpg",
+      "text": "бабочка соседка животные"
+    },
+    {
+      "id": 1286,
+      "local_image_path": "data/embroteka_imgs/1610.jpg",
+      "text": "бабочка одноцветная животные"
+    },
+    {
+      "id": 1282,
+      "local_image_path": "data/embroteka_imgs/1606.jpg",
+      "text": "бабочка в полёте животные"
+    },
+    {
+      "id": 11518,
+      "local_image_path": "data/royal_present_imgs/1169.jpg",
+      "text": "тропическая бабочка новые бабочки и насекомые"
+    },
+    {
+      "id": 11519,
+      "local_image_path": "data/royal_present_imgs/1170.jpg",
+      "text": "тропическая бабочка новые бабочки и насекомые"
+    },
+    {
+      "id": 1277,
+      "local_image_path": "data/embroteka_imgs/1601.jpg",
+      "text": "бабочка 1 животные"
+    },
+    {
+      "id": 1287,
+      "local_image_path": "data/embroteka_imgs/1611.png",
+      "text": "бабочка парусник животные"
+    },
+    {
+      "id": 1281,
+      "local_image_path": "data/embroteka_imgs/1605.png",
+      "text": "бабочка в двух оттенках животные"
+    },
+    {
+      "id": 1276,
+      "local_image_path": "data/embroteka_imgs/1600.jpg",
+      "text": "бабочка 07 животные"
+    }
+  ],
+  "собака играет": [
+    {
+      "id": 2487,
+      "local_image_path": "data/embroteka_imgs/3018.jpg",
+      "text": "собака животные"
+    },
+    {
+      "id": 2675,
+      "local_image_path": "data/embroteka_imgs/3232.jpg",
+      "text": "щенок животные"
+    },
+    {
+      "id": 2279,
+      "local_image_path": "data/embroteka_imgs/2792.png",
+      "text": "пес животные"
+    },
+    {
+      "id": 2030,
+      "local_image_path": "data/embroteka_imgs/2502.jpg",
+      "text": "лошадь собака животные"
+    },
+    {
+      "id": 2490,
+      "local_image_path": "data/embroteka_imgs/3021.jpg",
+      "text": "собака 15 животные"
+    },
+    {
+      "id": 2489,
+      "local_image_path": "data/embroteka_imgs/3020.jpg",
+      "text": "собака 06 животные"
+    },
+    {
+      "id": 2424,
+      "local_image_path": "data/embroteka_imgs/2947.png",
+      "text": "серая собака животные"
+    },
+    {
+      "id": 1786,
+      "local_image_path": "data/embroteka_imgs/2213.jpg",
+      "text": "кот собака животные"
+    },
+    {
+      "id": 1507,
+      "local_image_path": "data/embroteka_imgs/1855.jpg",
+      "text": "девушка собака животные"
+    },
+    {
+      "id": 2561,
+      "local_image_path": "data/embroteka_imgs/3102.jpg",
+      "text": "терьер животные"
+    },
+    {
+      "id": 2110,
+      "local_image_path": "data/embroteka_imgs/2605.jpg",
+      "text": "мопс животные"
+    },
+    {
+      "id": 1341,
+      "local_image_path": "data/embroteka_imgs/1669.png",
+      "text": "бульдог животные"
+    },
+    {
+      "id": 2475,
+      "local_image_path": "data/embroteka_imgs/3006.png",
+      "text": "смешной песик \\собака животные"
+    },
+    {
+      "id": 2038,
+      "local_image_path": "data/embroteka_imgs/2512.jpg",
+      "text": "любвеобильный щенок животные"
+    },
+    {
+      "id": 2509,
+      "local_image_path": "data/embroteka_imgs/3044.jpg",
+      "text": "собачка животные"
+    },
+    {
+      "id": 2678,
+      "local_image_path": "data/embroteka_imgs/3235.jpg",
+      "text": "щенок виляет хвостом животные"
+    }
+  ],
+  "знаки зодиака": [
+    {
+      "id": 100,
+      "local_image_path": "data/embroteka_imgs/101.jpg",
+      "text": "знаки зодиака астрология космос"
+    },
+    {
+      "id": 60,
+      "local_image_path": "data/embroteka_imgs/61.jpg",
+      "text": "знак зодиака лев астрология космос"
+    },
+    {
+      "id": 62,
+      "local_image_path": "data/embroteka_imgs/63.jpg",
+      "text": "знак зодиака лев астрология космос"
+    },
+    {
+      "id": 61,
+      "local_image_path": "data/embroteka_imgs/62.jpg",
+      "text": "знак зодиака лев астрология космос"
+    },
+    {
+      "id": 77,
+      "local_image_path": "data/embroteka_imgs/78.jpg",
+      "text": "знак зодиака рыбы астрология космос"
+    },
+    {
+      "id": 75,
+      "local_image_path": "data/embroteka_imgs/76.jpg",
+      "text": "знак зодиака рыбы астрология космос"
+    },
+    {
+      "id": 76,
+      "local_image_path": "data/embroteka_imgs/77.jpg",
+      "text": "знак зодиака рыбы астрология космос"
+    },
+    {
+      "id": 80,
+      "local_image_path": "data/embroteka_imgs/81.jpg",
+      "text": "знак зодиака скорпион астрология космос"
+    },
+    {
+      "id": 79,
+      "local_image_path": "data/embroteka_imgs/80.jpg",
+      "text": "знак зодиака скорпион астрология космос"
+    },
+    {
+      "id": 163,
+      "local_image_path": "data/embroteka_imgs/172.jpg",
+      "text": "скорпион. зодиак астрология космос"
+    },
+    {
+      "id": 56,
+      "local_image_path": "data/embroteka_imgs/57.jpg",
+      "text": "знак зодиака козерог астрология космос"
+    },
+    {
+      "id": 57,
+      "local_image_path": "data/embroteka_imgs/58.jpg",
+      "text": "знак зодиака козерог астрология космос"
+    },
+    {
+      "id": 58,
+      "local_image_path": "data/embroteka_imgs/59.jpg",
+      "text": "знак зодиака козерог астрология космос"
+    },
+    {
+      "id": 64,
+      "local_image_path": "data/embroteka_imgs/65.png",
+      "text": "знак зодиака лев цветами астрология космос"
+    },
+    {
+      "id": 13876,
+      "local_image_path": "data/royal_present_imgs_2/6618.jpg",
+      "text": "змея зимние животный мир знаки зодиака  гороскоп"
+    },
+    {
+      "id": 63,
+      "local_image_path": "data/embroteka_imgs/64.jpg",
+      "text": "знак зодиака лев 05 астрология космос"
+    }
+  ],
+  "лило и стич": [
+    {
+      "id": 5157,
+      "local_image_path": "data/embroteka_imgs/5804.png",
+      "text": "стич из мультфильма лило стич кино мульты аниме игры"
+    },
+    {
+      "id": 4724,
+      "local_image_path": "data/embroteka_imgs/5348.png",
+      "text": "лило стич стич парный кино мульты аниме игры"
+    },
+    {
+      "id": 4723,
+      "local_image_path": "data/embroteka_imgs/5347.png",
+      "text": "лило стич  stich кино мульты аниме игры"
+    },
+    {
+      "id": 5156,
+      "local_image_path": "data/embroteka_imgs/5803.png",
+      "text": "стич из лило стич кино мульты аниме игры"
+    },
+    {
+      "id": 5159,
+      "local_image_path": "data/embroteka_imgs/5806.jpg",
+      "text": "стич миленький кино мульты аниме игры"
+    },
+    {
+      "id": 5141,
+      "local_image_path": "data/embroteka_imgs/5788.png",
+      "text": "стич  stich кино мульты аниме игры"
+    },
+    {
+      "id": 5158,
+      "local_image_path": "data/embroteka_imgs/5805.png",
+      "text": "стич милашка кино мульты аниме игры"
+    },
+    {
+      "id": 5143,
+      "local_image_path": "data/embroteka_imgs/5790.jpg",
+      "text": "стич 01 кино мульты аниме игры"
+    },
+    {
+      "id": 5146,
+      "local_image_path": "data/embroteka_imgs/5793.jpg",
+      "text": "стич 10 кино мульты аниме игры"
+    },
+    {
+      "id": 5145,
+      "local_image_path": "data/embroteka_imgs/5792.jpg",
+      "text": "стич 1 кино мульты аниме игры"
+    },
+    {
+      "id": 3812,
+      "local_image_path": "data/embroteka_imgs/4383.png",
+      "text": "stitch стич кино мульты аниме игры"
+    },
+    {
+      "id": 5151,
+      "local_image_path": "data/embroteka_imgs/5798.jpg",
+      "text": "стич 4  stich кино мульты аниме игры"
+    },
+    {
+      "id": 5150,
+      "local_image_path": "data/embroteka_imgs/5797.jpg",
+      "text": "стич 3  stich кино мульты аниме игры"
+    },
+    {
+      "id": 5139,
+      "local_image_path": "data/embroteka_imgs/5786.jpg",
+      "text": "стич кино мульты аниме игры"
+    },
+    {
+      "id": 5142,
+      "local_image_path": "data/embroteka_imgs/5789.png",
+      "text": "стич  stich  stitch кино мульты аниме игры"
+    }
+  ],
+  "самолеты небо": [
+    {
+      "id": 10835,
+      "local_image_path": "data/embroteka_imgs/12974.jpg",
+      "text": "летящий самолёт транспорт"
+    },
+    {
+      "id": 10892,
+      "local_image_path": "data/embroteka_imgs/13059.jpg",
+      "text": "як-52 самолет транспорт"
+    },
+    {
+      "id": 10838,
+      "local_image_path": "data/embroteka_imgs/12977.jpg",
+      "text": "маленький самолет транспорт"
+    },
+    {
+      "id": 10881,
+      "local_image_path": "data/embroteka_imgs/13039.jpg",
+      "text": "су-27 транспорт"
+    },
+    {
+      "id": 10878,
+      "local_image_path": "data/embroteka_imgs/13035.jpg",
+      "text": "силуэт самолета транспорт"
+    },
+    {
+      "id": 1155,
+      "local_image_path": "data/embroteka_imgs/1463.jpg",
+      "text": "самолётик детские"
+    },
+    {
+      "id": 10872,
+      "local_image_path": "data/embroteka_imgs/13029.jpg",
+      "text": "самолет 05 транспорт"
+    },
+    {
+      "id": 10861,
+      "local_image_path": "data/embroteka_imgs/13017.png",
+      "text": "отражение самолета транспорт"
+    },
+    {
+      "id": 10875,
+      "local_image_path": "data/embroteka_imgs/13032.png",
+      "text": "самолет пальмы транспорт"
+    },
+    {
+      "id": 10874,
+      "local_image_path": "data/embroteka_imgs/13031.jpg",
+      "text": "самолет земной шар транспорт"
+    },
+    {
+      "id": 10873,
+      "local_image_path": "data/embroteka_imgs/13030.jpg",
+      "text": "самолет 07 транспорт"
+    },
+    {
+      "id": 10818,
+      "local_image_path": "data/embroteka_imgs/12944.jpg",
+      "text": "истребитель транспорт"
+    },
+    {
+      "id": 8601,
+      "local_image_path": "data/embroteka_imgs/10254.jpg",
+      "text": "23 февраля с самолетом праздники"
+    },
+    {
+      "id": 10876,
+      "local_image_path": "data/embroteka_imgs/13033.jpg",
+      "text": "самолет одной строчкой транспорт"
+    },
+    {
+      "id": 10810,
+      "local_image_path": "data/embroteka_imgs/12934.jpg",
+      "text": "глобус самолет транспорт"
+    }
+  ],
+  "детские рисунки": [
+    {
+      "id": 2109,
+      "local_image_path": "data/embroteka_imgs/2604.png",
+      "text": "мишкамедведьдетские животные"
+    },
+    {
+      "id": 1141,
+      "local_image_path": "data/embroteka_imgs/1449.png",
+      "text": "поросенок детские"
+    },
+    {
+      "id": 925,
+      "local_image_path": "data/embroteka_imgs/1213.jpg",
+      "text": "зайчик детские"
+    },
+    {
+      "id": 1142,
+      "local_image_path": "data/embroteka_imgs/1450.jpg",
+      "text": "привет малыш! детские люди"
+    },
+    {
+      "id": 16889,
+      "local_image_path": "data/royal_present_imgs_3/13899.jpg",
+      "text": "кошки-мышки животный мир детские"
+    },
+    {
+      "id": 16890,
+      "local_image_path": "data/royal_present_imgs_3/13900.jpg",
+      "text": "кошки-мышки животный мир детские"
+    },
+    {
+      "id": 886,
+      "local_image_path": "data/embroteka_imgs/1160.jpg",
+      "text": "детские кубики детские"
+    },
+    {
+      "id": 919,
+      "local_image_path": "data/embroteka_imgs/1206.jpg",
+      "text": "зайка детские"
+    },
+    {
+      "id": 1162,
+      "local_image_path": "data/embroteka_imgs/1470.jpg",
+      "text": "слонёнок-ученик детские"
+    },
+    {
+      "id": 20005,
+      "local_image_path": "data/royal_present_imgs_4/20735.jpg",
+      "text": "овечка детские"
+    },
+    {
+      "id": 1136,
+      "local_image_path": "data/embroteka_imgs/1444.jpg",
+      "text": "плюшевый мишка детские"
+    },
+    {
+      "id": 1002,
+      "local_image_path": "data/embroteka_imgs/1298.png",
+      "text": "малыш девочка  дети  новорожденный детские"
+    },
+    {
+      "id": 1152,
+      "local_image_path": "data/embroteka_imgs/1460.jpg",
+      "text": "русалка детские"
+    },
+    {
+      "id": 1187,
+      "local_image_path": "data/embroteka_imgs/1499.jpg",
+      "text": "счастливая пчелка детские"
+    },
+    {
+      "id": 915,
+      "local_image_path": "data/embroteka_imgs/1202.jpg",
+      "text": "енот с листиком детские"
+    }
+  ],
+  "любовь": [
+    {
+      "id": 7092,
+      "local_image_path": "data/embroteka_imgs/8588.jpg",
+      "text": "любовь люди"
+    },
+    {
+      "id": 7288,
+      "local_image_path": "data/embroteka_imgs/8837.png",
+      "text": "черепа. поцелуй люди"
+    },
+    {
+      "id": 8656,
+      "local_image_path": "data/embroteka_imgs/10316.jpg",
+      "text": "love праздники"
+    },
+    {
+      "id": 6951,
+      "local_image_path": "data/embroteka_imgs/8422.jpg",
+      "text": "двое люди"
+    },
+    {
+      "id": 7137,
+      "local_image_path": "data/embroteka_imgs/8661.jpg",
+      "text": "пара люди"
+    },
+    {
+      "id": 7188,
+      "local_image_path": "data/embroteka_imgs/8713.jpg",
+      "text": "руки влюблённых люди"
+    },
+    {
+      "id": 7362,
+      "local_image_path": "data/embroteka_imgs/8918.jpg",
+      "text": "love 03 надписи"
+    },
+    {
+      "id": 8791,
+      "local_image_path": "data/embroteka_imgs/10474.jpg",
+      "text": "день св. валентина. ангел love праздники"
+    },
+    {
+      "id": 7015,
+      "local_image_path": "data/embroteka_imgs/8495.jpg",
+      "text": "день матери люди"
+    },
+    {
+      "id": 6916,
+      "local_image_path": "data/embroteka_imgs/8378.jpg",
+      "text": "вместе люди"
+    },
+    {
+      "id": 7131,
+      "local_image_path": "data/embroteka_imgs/8655.jpg",
+      "text": "он она люди"
+    },
+    {
+      "id": 9193,
+      "local_image_path": "data/embroteka_imgs/10973.jpg",
+      "text": "с любовью для тебя! праздники"
+    },
+    {
+      "id": 7099,
+      "local_image_path": "data/embroteka_imgs/8603.jpg",
+      "text": "мальчик девочка люди"
+    },
+    {
+      "id": 6914,
+      "local_image_path": "data/embroteka_imgs/8376.jpg",
+      "text": "влюбленная пара люди"
+    },
+    {
+      "id": 4757,
+      "local_image_path": "data/embroteka_imgs/5382.png",
+      "text": "любовь это кино мульты аниме игры"
+    },
+    {
+      "id": 7159,
+      "local_image_path": "data/embroteka_imgs/8683.jpg",
+      "text": "поцелуй люди"
+    },
+    {
+      "id": 7361,
+      "local_image_path": "data/embroteka_imgs/8917.jpg",
+      "text": "love 01 надписи"
+    },
+    {
+      "id": 7363,
+      "local_image_path": "data/embroteka_imgs/8919.png",
+      "text": "love heart надписи"
+    }
+  ],
+  "динозавр": [
+    {
+      "id": 901,
+      "local_image_path": "data/embroteka_imgs/1180.jpg",
+      "text": "динозаврики детские животные"
+    },
+    {
+      "id": 894,
+      "local_image_path": "data/embroteka_imgs/1173.jpg",
+      "text": "динозаврик веня детские животные"
+    },
+    {
+      "id": 1531,
+      "local_image_path": "data/embroteka_imgs/1906.png",
+      "text": "динозавры животные"
+    },
+    {
+      "id": 1524,
+      "local_image_path": "data/embroteka_imgs/1885.jpg",
+      "text": "динозавр пахиринозавр животные"
+    },
+    {
+      "id": 1529,
+      "local_image_path": "data/embroteka_imgs/1890.jpg",
+      "text": "динозавр тираннозавр животные"
+    },
+    {
+      "id": 1523,
+      "local_image_path": "data/embroteka_imgs/1878.jpg",
+      "text": "динозавр диплодок животные"
+    },
+    {
+      "id": 1525,
+      "local_image_path": "data/embroteka_imgs/1886.jpg",
+      "text": "динозавр полакантус животные"
+    },
+    {
+      "id": 1528,
+      "local_image_path": "data/embroteka_imgs/1889.jpg",
+      "text": "динозавр стиракозавр животные"
+    },
+    {
+      "id": 1530,
+      "local_image_path": "data/embroteka_imgs/1891.jpg",
+      "text": "динозавр трицератопс животные"
+    },
+    {
+      "id": 1527,
+      "local_image_path": "data/embroteka_imgs/1888.jpg",
+      "text": "динозавр стегозавр животные"
+    },
+    {
+      "id": 2095,
+      "local_image_path": "data/embroteka_imgs/2585.jpg",
+      "text": "милозавр животные"
+    },
+    {
+      "id": 889,
+      "local_image_path": "data/embroteka_imgs/1164.jpg",
+      "text": "динозавр дино детские животные"
+    }
+  ],
+  "пиво": [
+    {
+      "id": 9962,
+      "local_image_path": "data/embroteka_imgs/11904.jpg",
+      "text": "пинта пива профессии искусство хобби"
+    },
+    {
+      "id": 14157,
+      "local_image_path": "data/royal_present_imgs_2/7134.jpg",
+      "text": "пиво и хмель цветы и растения кухонные еда  специи и травы"
+    },
+    {
+      "id": 14156,
+      "local_image_path": "data/royal_present_imgs_2/7133.jpg",
+      "text": "пиво и хмель цветы и растения кухонные еда  специи и травы"
+    },
+    {
+      "id": 9907,
+      "local_image_path": "data/embroteka_imgs/11828.jpg",
+      "text": "кружка пива профессии искусство хобби"
+    },
+    {
+      "id": 9908,
+      "local_image_path": "data/embroteka_imgs/11829.jpg",
+      "text": "кружка пива 01 профессии искусство хобби"
+    },
+    {
+      "id": 9909,
+      "local_image_path": "data/embroteka_imgs/11830.jpg",
+      "text": "кружка пива 02 профессии искусство хобби"
+    },
+    {
+      "id": 9911,
+      "local_image_path": "data/embroteka_imgs/11833.jpg",
+      "text": "кружка с пенным пивом профессии искусство хобби"
+    },
+    {
+      "id": 9910,
+      "local_image_path": "data/embroteka_imgs/11831.png",
+      "text": "кружка пива 2 профессии искусство хобби"
+    },
+    {
+      "id": 7882,
+      "local_image_path": "data/embroteka_imgs/9507.jpg",
+      "text": "я люблю пиво надписи"
+    },
+    {
+      "id": 7749,
+      "local_image_path": "data/embroteka_imgs/9338.jpg",
+      "text": "пиво с друзьями надписи"
+    },
+    {
+      "id": 9912,
+      "local_image_path": "data/embroteka_imgs/11834.jpg",
+      "text": "кружки пива профессии искусство хобби"
+    }
+  ]
+}

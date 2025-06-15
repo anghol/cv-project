@@ -96,3 +96,39 @@ def get_text_embedding(text: str, model, processor, model_name, device):
         text_embedding /= text_embedding.norm(dim=-1, keepdim=True)
 
     return text_embedding
+
+
+def precision_at_k(relevant_dict, predicted_dict, k=5):
+    print('----- Precision@5 -----')
+    metric_values = []
+    for query in relevant_dict:
+        relevant_ids = set(relevant_dict[query]['ids'])
+        predicted_ids = set(predicted_dict[query]['ids'])
+        tp = relevant_ids & predicted_ids
+        precision = len(tp) / k
+        
+        print(f'Запрос "{query}":  {precision:.2f}')
+        metric_values.append(precision)
+    
+    print(f'Среднее значение по всем запросам: {np.mean(metric_values)}')
+
+
+def recall_at_k(relevant_dict, predicted_dict, k=5):
+    print('----- Recall@5 -----')
+    metric_values = []
+    for query in relevant_dict:
+        relevant_ids = set(relevant_dict[query]['ids'])
+        predicted_ids = set(predicted_dict[query]['ids'][:k])
+        tp = relevant_ids & predicted_ids
+        recall = len(tp) / len(relevant_ids)
+        
+        print(f'Запрос "{query}":  {recall:.2f}')
+        metric_values.append(recall)
+    
+    print(f'Среднее значение по всем запросам: {np.mean(metric_values)}')
+
+
+def mean_similarity_between_true(image_embeddings, text_embeddings):
+    similarities = (100.0 * image_embeddings @ text_embeddings.T).softmax(dim=-1)
+    mean_similarity = torch.diag(similarities).mean().item()
+    print(f'Среднее косинусное сходство эмбеддингов у правильных пар: {mean_similarity}')
