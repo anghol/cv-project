@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.product-card {
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-img {
+    height: 200px; /* Фиксированная высота для изображений в карточках */
+    object-fit: contain; /* Сохраняет пропорции, помещая изображение целиком */
+    background-color: #fff; /* Фон для изображений */
+    padding: 10px;
+}
+
+.product-detail-img {
+    max-height: 400px;
+    object-fit: contain;
+    background-color: #fff;
+    padding: 10px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); /* Темный фон для иконок */
+    border-radius: 50%;
+}

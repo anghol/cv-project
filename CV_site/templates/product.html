@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Товар: {{ product.name | truncate(50) }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container mt-5">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{{ url_for('index') }}">Поиск</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{{ product.name | truncate(30) }}</li>
+            </ol>
+        </nav>
+        <h1 class="mb-4">Детали товара: {{ product.name }}</h1>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div id="carouselProductDetail" class="carousel slide" data-bs-interval="false">
+                    <div class="carousel-inner">
+                        {% for image_path in product.image_paths %}
+                        <div class="carousel-item {% if loop.first %}active{% endif %}">
+                            <img src="{{ url_for('static', filename=image_path) }}" class="d-block w-100 product-detail-img" alt="{{ product.name }}">
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% if product.image_paths|length > 1 %}
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselProductDetail" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Предыдущее</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselProductDetail" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Следующее</span>
+                    </button>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="col-md-6">
+                {% if product.description %}
+                    <p><strong>Описание:</strong> {{ product.description | safe }}</p>
+                {% endif %}
+
+                {% if product.price %}
+                    <p><strong>Цена:</strong> {{ product.price }}</p>
+                {% endif %}
+                {% if product.url and product.url != '#' %}
+                    <p><strong>Оригинальная страница:</strong> <a href="{{ product.url }}" target="_blank">{{ product.url }}</a></p>
+                {% endif %}
+                {% if product.category %}
+                    <p><strong>Категория:</strong> {{ product.category }}</p>
+                {% endif %}
+                {% if product.design_size %}
+                    <p><strong>Размер дизайна:</strong> {{ product.design_size }}</p>
+                {% endif %}
+                {% if product.stitch_count %}
+                    <p><strong>Количество стежков:</strong> {{ product.stitch_count }}</p>
+                {% endif %}
+                {% if product.color_count %}
+                    <p><strong>Количество цветов:</strong> {{ product.color_count }}</p>
+                {% endif %}
+                {% if product.file_formats %}
+                    <p><strong>Форматы файлов:</strong> {{ product.file_formats }}</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <a href="{{ url_for('index') }}" class="btn btn-secondary mt-4">Вернуться к поиску</a>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
