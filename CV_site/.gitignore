@@ -1,0 +1,6 @@
+static/images/*
+!static/images/.gitkeep
+data/*
+!data/.gitkeep
+.venv/
+__pycache__/
